@@ -6,3 +6,6 @@ Java, HTML, CSS, PHP, JavaScript and, most predominantly, C#. I have worked with
 development, game development, enterprise application development, and internet application development. On top of this I also have a great deal of experience 
 working with various frameworks such as ASP.NET, ASP .NET Core, and Spring Boot to develop these enterprise and internet applications, which have also required
 the development of complex database systems using Microsoft SQL Server and SQL scripts within the applications themselves.
+
+I have also had the pleasure of working with a variety of general purpose programming tools, including Visual Studio 2019, GitHub Desktop, Microsoft SQL Server 
+Management Studio, IntelliJ IDEA Ultimate and Android Studio among many others.
