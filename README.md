@@ -1,11 +1,7 @@
-My name is Nathaniel Saunders, I'm a recent graduate of the 3 year Computer Programming and Analysis advanced diploma program offered by Conestoga College. 
-I'm currently based in Waterloo, Ontario.
+My name is Nathaniel Saunders, I'm a Software Developer currently working with Brock Solutions who recently graduated from Conestoga College with an OCAD in Computer Programming and Analysis.
 
-Throughout my academic career I have gained a great deal of experience working with a variety of programming languages, some of these languages include
-Java, HTML, CSS, PHP, JavaScript and, most predominantly, C#. I have worked with these specific languages in many ways, including mobile application 
-development, game development, enterprise application development, and internet application development. On top of this I also have a great deal of experience 
-working with various frameworks such as ASP.NET, ASP .NET Core, and Spring Boot to develop these enterprise and internet applications, which have also required
-the development of complex database systems using Microsoft SQL Server and SQL scripts within the applications themselves.
+Throughout my academic and professional career I have gained expertise working with various programming languages/technologies, (C#, Java, HTML, JavaScript). I have used these languages for developing mobile, enterprise and internet applications as well as games and MES Software. Additionally, I have extensive experience working with ASP .NET Core, and Spring Boot frameworks in the development of these applications, which required developing complex database systems using MySQL, Microsoft SQL Server and SQL scripts within the applications themselves.
 
-I have also had the pleasure of working with a variety of general purpose programming tools, including Visual Studio 2019, GitHub Desktop, Microsoft SQL Server 
-Management Studio, IntelliJ IDEA Ultimate and Android Studio among many others.
+I also have experience using multiple general-purpose programming tools, including Visual Studio 2019, GitHub Desktop, Microsoft SQL Server Management Studio, Android Studio, FactoryTalk ProductionCentre, and many others.
+
+My ultimate goal is to apply and extend my existing skillset, to become a leading professional in this field.
